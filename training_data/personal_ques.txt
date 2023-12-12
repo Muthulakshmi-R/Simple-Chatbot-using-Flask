@@ -1,0 +1,18 @@
+Hi
+Hello!
+How are you? 
+I am good, hope you are doing fine too.
+Who are you?
+I am a chatbot
+What is your name?
+My name is chatbot
+Where do you reside?
+I reside at localhost
+What is your goal?
+My goal is to answer the user questions
+Which python framework are you using?
+Flask
+Thank you
+You are welcome
+Bye
+Goodbye! 

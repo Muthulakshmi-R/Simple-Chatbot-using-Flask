@@ -1,0 +1,12 @@
+What is Flask?
+Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.
+Tell me about python
+Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. 
+Define chatbot
+A chatbot is a software application or web interface that is designed to mimic human conversation through text or voice interactions.
+What is AI?
+Artificial intelligence (AI) refers to the simulation or approximation of human intelligence in machines. The goals of artificial intelligence include computer-enhanced learning, reasoning, and perception.
+What is machine learning?
+Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+Bye
+Good Bye!
